@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595549743885",
+    "firebase_url": "https://cooktail-9a7ed.firebaseio.com",
+    "project_id": "cooktail-9a7ed",
+    "storage_bucket": "cooktail-9a7ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595549743885:android:7706a578f94bad6f7a9e44",
+        "android_client_info": {
+          "package_name": "edu.neu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595549743885-dcmdqfth6mfe8t27rcholbjcdh8p0nv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.neu.myapplication",
+            "certificate_hash": "fbfcead8c0809b452de256e537a486d1f6d9740a"
+          }
+        },
+        {
+          "client_id": "595549743885-ib06si75mmpbsuiki1e93ugj8jnhhm19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZ9LoeaExzz3r9jRThUlMsudAWcMdHIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595549743885-ib06si75mmpbsuiki1e93ugj8jnhhm19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
